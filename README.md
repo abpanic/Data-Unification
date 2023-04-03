@@ -45,7 +45,7 @@ The Financial-Data-Unification project is licensed under the MIT license. See th
 To report bugs or provide feedback, please contact Abhilash Panicker at https://dbugr.vercel.app/contact
 
 ## References
-* SQL Server Integration Services documentation[https://learn.microsoft.com/en-us/sql/integration-services/integration-services-developer-documentation?view=sql-server-ver16]
+* [SQL Server Integration Services documentation](https://learn.microsoft.com/en-us/sql/integration-services/integration-services-developer-documentation?view=sql-server-ver16)
 * Apache NiFi documentation[https://nifi.apache.org/docs.html]
 * ODBC Driver for MySQL[https://dev.mysql.com/downloads/connector/odbc/]
 * JDBC Driver for SQL Server[https://learn.microsoft.com/en-us/sql/connect/jdbc/microsoft-jdbc-driver-for-sql-server?view=sql-server-ver16]
