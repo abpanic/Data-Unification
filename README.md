@@ -7,10 +7,10 @@ To install Financial-Data-Unification, you must have SQL Server Integration Serv
 ## Usage
 The Financial-Data-Unification project can be used to import financial data from Excel, MS SQL Server, and MySQL databases into a single target database. To use the project, follow these steps:
 
-Open the SSIS package or NiFi flow in Visual Studio or NiFi respectively.
-Configure the connection managers for the source and target databases.
-Modify the package or flow to customize the data import process if necessary.
-Execute the package or flow to import data into the target database.
+* Open the SSIS package or NiFi flow in Visual Studio or NiFi respectively.
+* Configure the connection managers for the source and target databases.
+* Modify the package or flow to customize the data import process if necessary.
+* Execute the package or flow to import data into the target database.
 
 ## Supported Data Sources
 The Financial-Data-Unification project supports the following data sources:
