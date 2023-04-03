@@ -15,9 +15,9 @@ Execute the package or flow to import data into the target database.
 ## Supported Data Sources
 The Financial-Data-Unification project supports the following data sources:
 
-Excel spreadsheets (XLS, XLSX)
-MS SQL Server databases
-MySQL databases
+* Excel spreadsheets (XLS, XLSX)
+* MS SQL Server databases
+* MySQL databases
 The project requires the appropriate ODBC or JDBC drivers to connect to these data sources. The data sources must also be accessible from the machine where the project is installed.
 
 ## Technical Details
