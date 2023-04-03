@@ -42,7 +42,7 @@ The Financial-Data-Unification project is maintained by Abhilash Panicker. It us
 The Financial-Data-Unification project is licensed under the MIT license. See the LICENSE file for details.
 
 ## Contact
-To report bugs or provide feedback, please contact Abhilash Panicker at https://dbugr.vercel.app/contact
+To report bugs or provide feedback, please contact Abhilash Panicker at [here](https://dbugr.vercel.app/contact)
 
 ## References
 * [SQL Server Integration Services documentation](https://learn.microsoft.com/en-us/sql/integration-services/integration-services-developer-documentation?view=sql-server-ver16)
