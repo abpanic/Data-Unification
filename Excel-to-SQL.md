@@ -1,13 +1,13 @@
 The purpose of this project is to demonstrate the process of integrating data from Excel files into an MSSQL database.
 
-##Installation
+## Installation
 Install the SQL Server Management Studio and SQL Server Integration Services (SSIS) on your machine.
 Create a new SSIS project in Visual Studio.
 In the Solution Explorer, right-click on the "Connection Managers" folder and select "New Connection".
 Select "Excel" as the data source type and browse for the Excel file you want to import data from.
 Enter the appropriate connection information and click "Test Connection" to verify the connection.
 Repeat steps 3-5 to create a connection manager for your target MSSQL database.
-##Usage
+## Usage
 In the SSIS project, drag and drop a "Data Flow Task" from the Toolbox to the Control Flow.
 Double-click on the "Data Flow Task" to open the Data Flow tab.
 Drag and drop an "Excel Source" and a "OLE DB Destination" from the Toolbox to the Data Flow tab.
@@ -17,7 +17,7 @@ Drag and drop a "Data Conversion" component from the Toolbox between the "Excel 
 Configure the "Data Conversion" component to convert the data types from Excel to the appropriate data types for your MSSQL database.
 Map the columns from the "Excel Source" to the appropriate columns in the "OLE DB Destination".
 Save the SSIS project and execute the "Data Flow Task" to import data from the Excel file into the MSSQL database.
-##Example
+## Example
 Here is an example of a simple Excel file called "Sales.xlsx" that we want to import into an MSSQL database:
 
 Date	Product	Sales
