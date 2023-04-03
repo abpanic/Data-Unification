@@ -1,3 +1,4 @@
+-- to be run in MS SQL
 CREATE TABLE financial_data (
   id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
   date DATE NOT NULL,
