@@ -26,17 +26,17 @@ The Financial-Data-Unification project is primarily implemented using SQL Server
 ## Contributing
 Contributions to the Financial-Data-Unification project are welcome. To contribute, follow these steps:
 
-Fork the repository on GitHub.
-Create a new branch for your changes.
-Make changes to the code or documentation.
-Submit a pull request with a detailed description of your changes.
+1. Fork the repository on GitHub.
+2. Create a new branch for your changes.
+3. Make changes to the code or documentation.
+4. Submit a pull request with a detailed description of your changes.
 
 ## Credits
 The Financial-Data-Unification project is maintained by Abhilash Panicker. It uses the following external libraries:
 
-Apache NiFi
-NPOI
-Newtonsoft.Json
+* Apache NiFi
+* NPOI
+* Newtonsoft.Json
 
 ## License
 The Financial-Data-Unification project is licensed under the MIT license. See the LICENSE file for details.
