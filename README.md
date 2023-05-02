@@ -1,5 +1,6 @@
 ## Project Description
-Financial-Data-Unification is a project that helps users to import data from multiple sources such as Excel, MS SQL Server, and MySQL databases into a single target database. The project uses SQL Server Integration Services (SSIS) as the primary tool for data integration, but it also provides an alternate method using Apache NiFi. The project aims to simplify the process of unifying financial data from multiple sources, which is a common challenge faced by financial analysts and data scientists.
+
+Data-Unification is a project that helps users to import data from multiple sources such as Excel, MS SQL Server, and MySQL databases into a single target database. The project uses SQL Server Integration Services (SSIS) as the primary tool for data integration, but it also provides an alternate method using Apache NiFi. The project aims to simplify the process of unifying financial data from multiple sources, which is a common challenge faced by financial analysts and data scientists.
 
 ## Installation
 To install Financial-Data-Unification, you must have SQL Server Integration Services and Apache NiFi installed on your machine. You can download SQL Server Integration Services from the Microsoft website, and Apache NiFi can be downloaded from the Apache NiFi website. Once you have installed these tools, you can clone the repository from GitHub and open the project in Visual Studio or any other IDE that supports SSIS.
@@ -24,7 +25,7 @@ The project requires the appropriate ODBC or JDBC drivers to connect to these da
 The Financial-Data-Unification project is primarily implemented using SQL Server Integration Services (SSIS) and Apache NiFi. The SSIS package uses data flow components such as the OLE DB Source, Excel Source, and ADO.NET Destination to import data from the source databases and load it into the target database. The Apache NiFi flow uses processors such as GetSQL, QueryDatabaseTable, and PutSQL to achieve the same functionality.
 
 ## Contributing
-Contributions to the Financial-Data-Unification project are welcome. To contribute, follow these steps:
+Contributions to the Data-Unification project are welcome. To contribute, follow these steps:
 
 1. Fork the repository on GitHub.
 2. Create a new branch for your changes.
